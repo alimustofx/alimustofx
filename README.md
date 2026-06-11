@@ -1,27 +1,27 @@
 <!-- ═══════════════════════════════════════════════════════════════════
      ALI MUSTOFA • GitHub Profile README
-     Design: Dark glassmorphism, Tokyo Night palette, terminal-native
+     Design: Clean light-friendly, works on both light & dark GitHub
 ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- ── HERO BANNER ─────────────────────────────────────────────── -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b2e,100:7aa2f7&height=200&section=header&text=Ali%20Mustofa&fontSize=60&fontColor=aec6ff&fontAlignY=38&desc=Infrastructure%20Engineer%20%E2%80%A2%20Laravel%20Developer%20%E2%80%A2%20School%20IT%20Operator&descAlignY=58&descSize=16&descColor=c3c6d3&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f8ef7,50:7aa2f7,100:a5c4ff&height=200&section=header&text=Ali%20Mustofa&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Infrastructure%20Engineer%20%E2%80%A2%20Laravel%20Developer%20%E2%80%A2%20School%20IT%20Operator&descAlignY=58&descSize=16&descColor=e8f0ff&animation=fadeIn"/>
 
 <!-- ── LIVE STATUS PILL ─────────────────────────────────────────── -->
 
 <br/>
 
-[![Available](https://img.shields.io/badge/●%20Available%20for%20Infrastructure%20Scaling-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117&logo=statuspage&logoColor=7aa2f7)](https://github.com/alimustofx)
+[![Available](https://img.shields.io/badge/●%20Available%20for%20Infrastructure%20Scaling-4f8ef7?style=for-the-badge&logoColor=white)](https://github.com/alimustofx)
 &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=alimustofx&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=alimustofx&color=4f8ef7&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/><br/>
 
 <!-- ── TYPING ANIMATION ────────────────────────────────────────── -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&multiline=false&width=600&height=40&lines=Infrastructure+Engineer+%F0%9F%96%A5%EF%B8%8F;Laravel+%2B+PHP+Developer+%F0%9F%9A%80;Proxmox+%2B+Linux+%2B+Docker+Admin+%F0%9F%90%A7;School+IT+Operator+%2C+East+Java+%F0%9F%8F%AB;Communication+Science+Student+%F0%9F%93%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=4f8ef7&center=true&vCenter=true&multiline=false&width=600&height=40&lines=Infrastructure+Engineer+%F0%9F%96%A5%EF%B8%8F;Laravel+%2B+PHP+Developer+%F0%9F%9A%80;Proxmox+%2B+Linux+%2B+Docker+Admin+%F0%9F%90%A7;School+IT+Operator+%2C+East+Java+%F0%9F%8F%AB;Communication+Science+Student+%F0%9F%93%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -143,14 +143,14 @@ At night I write **Laravel** applications and push my **Proxmox** clusters furth
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alimustofx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=d4bbff&text_color=c3c6d3&count_private=true&include_all_commits=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimustofx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c3c6d3&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alimustofx&show_icons=true&theme=default&hide_border=false&border_color=c8d8ff&title_color=4f8ef7&icon_color=7aa2f7&text_color=333333&count_private=true&include_all_commits=true&rank_icon=github&border_radius=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimustofx&layout=compact&theme=default&hide_border=false&border_color=c8d8ff&title_color=4f8ef7&text_color=333333&langs_count=8&border_radius=10"/>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=alimustofx&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=7aa2f7&fire=d4bbff&currStreakLabel=7aa2f7&sideLabels=c3c6d3&dates=c3c6d3"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=alimustofx&theme=default&hide_border=false&border=c8d8ff&ring=4f8ef7&fire=f77a4f&currStreakLabel=4f8ef7&sideLabels=555555&dates=555555&border_radius=10"/>
 
 </div>
 
@@ -162,7 +162,7 @@ At night I write **Laravel** applications and push my **Proxmox** clusters furth
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alimustofx&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=d4bbff&area=true&area_color=7aa2f7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alimustofx&theme=github&hide_border=true&bg_color=ffffff&color=4f8ef7&line=4f8ef7&point=f77a4f&area=true&area_color=c8d8ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -209,7 +209,7 @@ At night I write **Laravel** applications and push my **Proxmox** clusters furth
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:1a1b2e,100:0D1117&height=100&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a5c4ff,50:7aa2f7,100:4f8ef7&height=100&section=footer&animation=fadeIn"/>
 
 *Built from a terminal in East Java. Powered by black coffee.*
 
