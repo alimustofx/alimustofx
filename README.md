@@ -139,13 +139,12 @@ Teachers · Staff · Students · Admin
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alimustofx&show_icons=true&theme=default&hide_border=true&title_color=305cac&icon_color=4f8ef7&text_color=434751&count_private=true&include_all_commits=true&rank_icon=github&border_radius=8&bg_color=00000000" alt="alimustofx's GitHub stats"/>
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimustofx&layout=compact&theme=default&hide_border=true&title_color=305cac&text_color=434751&langs_count=8&border_radius=8&bg_color=00000000" alt="Top languages"/>
-
-<br><br>
-
 <!-- Generated automatically by .github/workflows/snake.yml — see setup notes -->
 <img width="90%" src="https://raw.githubusercontent.com/alimustofx/alimustofx/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
+
+<br>
+
+<sub>Full contribution history, pinned repos, and language breakdown are visible natively on the <a href="https://github.com/alimustofx">GitHub profile page</a> below this README.</sub>
 
 </div>
 
